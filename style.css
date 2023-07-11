@@ -54,3 +54,54 @@ font-family: 'Poppins';
    align-items: flex-start;
    gap: 10px;
 }
+
+.flower-title{
+    text-align: center;
+}
+
+.h2{
+    color: #272727;
+   font-size: 40px;
+   font-weight: 800;
+   margin-top: 70px;
+}
+
+.p2{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.flower-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 10px;
+    padding: 10px;
+    gap: 60px;
+}
+
+figcaption{
+    color: #272727;
+    text-align: center;
+   font-size: 24px;
+   font-weight: 700;
+   text-decoration: underline;
+   
+}
+
+.img1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.img2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.img3{
+    border-radius: 300px 300px 0px 0px;
+   background: rgba(71, 125, 17, 0.15);
+}
