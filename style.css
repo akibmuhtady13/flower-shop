@@ -202,3 +202,14 @@ font-family: 'Poppins';
     margin-top: 30px;
 }
 
+footer{
+    background-color: black;
+    height: 300px; 
+}
+
+.foot{
+    align-items: center;
+    text-align: center;
+   padding-top: 50px;
+    
+}
