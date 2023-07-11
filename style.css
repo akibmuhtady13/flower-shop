@@ -51,7 +51,7 @@ font-family: 'Poppins';
    border-radius: 8px;
    background: #E55473;
    padding: 20px 43px;
-   align-items: flex-start;
+   align-items: center;
    gap: 10px;
 }
 
@@ -134,10 +134,71 @@ font-family: 'Poppins';
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
     width: 100%;
-    height: 500px;
+    height: 470px;
 
 }
 
 .col{
     color: rgba(229, 84, 115, 1);
 }
+
+.insta{
+    text-align: center;
+}
+
+.flower{
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 70px;
+    gap: 10px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    border-radius: 5x;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.container{ 
+    background-image: url('./asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    width: 85%;
+    margin: auto;
+    height: 310px;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    
+}
+
+.text{
+    
+}
+
+.btnn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    align-items: center;
+    gap: 20px;
+    height: 64px;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
