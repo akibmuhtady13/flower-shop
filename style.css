@@ -46,13 +46,13 @@ font-family: 'Poppins';
 
 .btn{
     color: #FFF;
-   font-size: 20px;
-   font-weight: 700;
-   border-radius: 8px;
-   background: #E55473;
-   padding: 20px 43px;
-   align-items: center;
-   gap: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    align-items: center;
+    gap: 10px;
 }
 
 .flower-title{
@@ -103,7 +103,7 @@ font-family: 'Poppins';
 
 .img3{
     border-radius: 300px 300px 0px 0px;
-   background: rgba(71, 125, 17, 0.15);
+    background: rgba(71, 125, 17, 0.15);
 }
 
 .img11{
